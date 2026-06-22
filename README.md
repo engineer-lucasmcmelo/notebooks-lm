@@ -15,7 +15,7 @@ Abaixo está a lista de cadernos interativos de estudo que venho desenvolvendo. 
 
 | 📖 Título do Caderno | 🔗 Link de Acesso | 📝 Descrição / Tópicos Abordados |
 | :--- | :--- | :--- |
-| **Projeto AppWeb** | [Acessar Notebook](https://notebooklm.google.com/notebook/1f18aaf7-dbef-4556-bf5c-a882015116c6) | *Base principal de pesquisas relacionadas ao AppWeb. (Adicione aqui os temas específicos abordados neste material)* |
+| **Projeto AppWeb** | [Acessar Notebook](https://notebooklm.google.com/notebook/1f18aaf7-dbef-4556-bf5c-a882015116c6) | *Base principal de pesquisas relacionadas ao AppWeb.* |
 
 ---
 
